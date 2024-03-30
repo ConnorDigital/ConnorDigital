@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ConnorDigital
+- 👋 Hi, I’m Connor and i currently live in Germany.
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning HTML, CSS, Java, Kotlin, Swift and different Frameworks
 - 📫 How to reach me: connorzupan@googlemail.com
